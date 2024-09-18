@@ -1,8 +1,8 @@
 ## Note
 
-Question 1 example is written in file `signals_example_1.py`
-Question 2 example is written in file `signals_example_2.py`
-Question 3 example is written in file `signals_example_3.py`
+* Question 1 example is written in file `signals_example_1.py`
+* Question 2 example is written in file `signals_example_2.py`
+* Question 3 example is written in file `signals_example_3.py`
 
 ## Question 1
 By default, Django signals are executed synchronously. This means that when a signal is triggered, the connected receivers are executed immediately, within the same thread, before the next lines of code can run.
